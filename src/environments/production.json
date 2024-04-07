@@ -1,0 +1,8 @@
+{
+    "API_URL": "https://api.dastgyr.com/driver/",
+    "PAYMENT_URL": "https://api-qr.dastgyr.com/driver/",
+    "DELIVERY_URL": "https://api-logistics.dastgyr.com/",
+    "RETAILER_URL": "https://api-retailer.dastgyr.com/",
+    "SENTRY_KEY": "https://05b7124cb4a4587b5f0f1671dd10c58a@o4505084776611840.ingest.sentry.io/4505907367968768",
+    "ENVIRONMENT": "production"
+}
